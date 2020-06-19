@@ -19,16 +19,12 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
 
   <title>Portfolio</title>
-  <!-- could add the background, currently has -->
+
 
 </head>
 
 <body>
 
-
-
-  <!-- navbar use for logo and to return home/Welcome Page -->
-  <!-- this is for the logo in the navbar / has CSS for screen sizing -->
   <div id="navbar" class="navbar-fixed">
     <nav class="nav-wrapper black darken-1">
       <div class="row">
@@ -41,7 +37,7 @@
             <a href="#" class="sidenav-trigger" data-target="mobile-links">
               <i class="material-icons">menu</i>
             </a>
-            <!-- weather icon, media, take me home, ??? in the navbar -->
+
             <ul class="right hide-on-med-and-down">
 
               <li><button id="about" class="black waves-effect waves-light white-text btn-flat">About</button></li>
@@ -52,17 +48,12 @@
     </nav>
   </div>
 
-  <!-- Transportation, Food Category, Desired Time grid -->
+
   <div class="parallax-container">
     <div class="parallax"><img src="./assets/images/geometry-space-lines-lights.jpg"></div>
   </div>
 
 
-
-
-  <!-- APIs -->
-
-  <!-- Here is a card, no JavaScript to drive this, add content to "card-content"-->
   <div class="container">
     <h4>Recent Projects</h4>
     <div class="row">
@@ -147,57 +138,59 @@
     </div>
   </div>
 
-  <!-- parallax -->
+
 
   <div class="parallax-container">
     <div class="parallax"><img src="./assets/images/austinPortfoliolandscape.png"></div>
   </div>
-  <!--
-  <div class="parallax-container">
-    <div class="parallax"><img src="images/parallax2.jpg"></div>
-  </div>-->
 
-
-
-  <!-- FOOTER - add social media links, contact developers info -->
-  <!-- recommend icons (#8) w/ fb, instagram, twitter, etc. icons, plus contact developers -->
-  <!-- footer -->
   <footer id="footer" class="page-footer grey darken-3">
     <div class="container">
+      <div class="wrapper"></div>
       <div class="row">
-        <div class="col l6 s12">
+        <div class="col l8 s12">
           <h5>About Me</h5>
           <p>I am currently enrolled at The Coding Bootcamp for the University of Texas at Austin completing courses in
             Html, CSS, Javascript, Node.js, Ajax, API, Session Storage, MongoDB, MySQL, React.js, PHP Frameworks,
             Jqueury, Heroku, Bootsrap, and Responsive Design becoming a Full Stack Web Developer.</p>
+          <li><a href="#!">Resume</a></li>
         </div>
-        <div class="container">
-          <div class="row">
-            <div class="col l4 offset-l2 s12">
-              <h5 class="white-text">Linkedin</h5>
-              <img class="materialboxed" width="50" src="assets/images/linkedin-logo-png-transparent-background.png">
-              <ul>
 
-                <!-- Dropdown Trigger - Marlon -->
-                <a class='dropdown-trigger btn-small grey darken-3 waves-effect waves-light' href='#'
-                  data-target='dropdown2'>Marlon Mora</a>
-                <ul id='dropdown2' class='dropdown-content'>
-                  <li><a href="#!">Full-Stack Engineer</a></li>
-                  <li><a href="https://www.linkedin.com/in/giraldo-marlon">Linked-In</a></li>
-                  <li><a href="#!">(929)229-6136</a></li>
-                </ul>
-                <div class="col l4 offset-l2 s12">
-                  <h5 class="white-text">GitHub</h5>
-                  <img class="materialboxed" width="40" src="assets/images/GitHub.jpg">
-                  <ul>
-                </div>
-            </div>
-          </div>
+        <div class="col l2 s12">
+          <h5 class="white-text">Linkedin</h5>
+          <img class="materialboxed" width="50" src="assets/images/linkedin-logo-png-transparent-background.png">
+          <ul>
+
+            <!-- Dropdown Trigger - Marlon -->
+            <a class='dropdown-trigger btn-small grey darken-3 waves-effect waves-light' href='#'
+              data-target='dropdown2'>Marlon Mora</a>
+            <ul id='dropdown2' class='dropdown-content'>
+              <li><a href="#!">Full-Stack Engineer</a></li>
+              <li><a href="https://www.linkedin.com/in/giraldo-marlon">Linked-In</a></li>
+              <li><a href="#!">(929)229-6136</a></li>
+            </ul>
+        </div>
+        <div class="col l2  s12">
+          <h5 class="white-text">GitHub</h5>
+          <img class="materialboxed" width="40" src="assets/images/GitHub.jpg">
+          <ul>
+            <a class='dropdown-trigger btn-small grey darken-3 waves-effect waves-light' href='#'
+              data-target='dropdown'>Marlon Mora</a>
+            <ul id='dropdown' class='dropdown-content'>
+              <li><a href="#!">Full-Stack Engineer</a></li>
+              <li><a href="https://github.com/marlon20m">GitHub</a></li>
+              <li><a href="#!">(929)229-6136</a></li>
+              <ul>
         </div>
       </div>
-      <div class="footer-copyright grey darken-4">
-        <div class="container center-align">Marlon Mora - The University of Texas Coding Bootcamp </div>
-      </div>
+    </div>
+    </div>
+
+
+
+    <div class="footer-copyright grey darken-4">
+      <div class="container center-align">Marlon Mora - The University of Texas Coding Bootcamp </div>
+    </div>
   </footer>
 
   <!-- JavaScript link -->
@@ -223,10 +216,6 @@
       // Calling paralax of Austin
       $('.parallax').parallax();
       $('.tabs').tabs();
-      $('.datepicker').datepicker({
-        disableWeekends: true,
-        yearRange: 1
-      });
       $('.tooltipped').tooltip();
       $('.scrollspy').scrollSpy();
       // jQuery initialization of dropdown in footer
