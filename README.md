@@ -1,17 +1,16 @@
-# Updated-Portfolio
+# 🏆 Updated-Portfolio 🏆
 
 ## Description 
 
-## Table of Contents (Optional)
+This portfolio demonstrates the projects that I have achieved with the help of different coding languages and tools. They consist of FoodTrucksATX which is a dedicated food truck search engine that includes directions in different modes of transport and cuisine details ranging from price to rating to foodtype. Workday Scheduler is also featured and it a functional daily planner web application that uses local storage as its main feature to store data. The Weather Dashboard is featured as well and displays weather data from cities around the world using a dedicated weather api. All these projects are presented on my website https://marlon20m.github.io/Updated-Portfolio/ which is made purely in Materialize css and features links to all respective projects and my own social media sites plus personal information
 
-If your README is very long, add a table of contents to make it easy for users to find what they need.
+## Table of Contents :clipboard:
 
 * [Installation](#installation)
 * [Usage](#usage)
-* [Credits](#credits)
 * [License](#license)
 * [Badges](#badges)
-
+* [Contact](#contact)
 
 ## Installation
 
@@ -22,15 +21,6 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 [![Only 32 Kb](https://badge-size.herokuapp.com/Naereen/StrapDown.js/master/strapdown.min.js)](https://github.com/Naereen/StrapDown.js/blob/master/strapdown.min.js)
 Provide instructions and examples for use. Include screenshots as needed. 
-
-
-## Credits
-
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
 
 
 
@@ -52,20 +42,20 @@ The last section of a good README is a license. This lets other developers know 
 
 ## Contributing
 
-[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/contributors/)__
+[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/contributors/)\newline
 1 contributor Marlon Mora
 
 
 ## Tests
 
-[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/issues/)__
+[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/issues/)\newline
 Passed 
 
 ## Contact
 
 Marlon Mora
 Github: https://github.com/marlon20m
-Email: marlonmora.ndr@gmail.com
+Email: marlonmora.ndr@gmail.com \newline
 
 ![alt text](https://avatars0.githubusercontent.com/u/62806466?v=4)
 
