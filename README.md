@@ -12,26 +12,25 @@ This portfolio demonstrates the projects that I have achieved with the help of d
 * [Badges](#badges)
 * [Contact](#contact)
 
-## Installation
+## Installation :wrench:
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+Please go to https://github.com/marlon20m to see the code languages and tools used to create this website. Then simply navigate to the site mentioned in the description. 
 
 
 ## Usage 
 
 [![Only 32 Kb](https://badge-size.herokuapp.com/Naereen/StrapDown.js/master/strapdown.min.js)](https://github.com/Naereen/StrapDown.js/blob/master/strapdown.min.js)
-Provide instructions and examples for use. Include screenshots as needed. 
 
 
 
 ## License
 
-The last section of a good README is a license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use [https://choosealicense.com/](https://choosealicense.com/)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg) <br>
+License MIT - Github
 
 
 ---
-
-🏆 The sections listed above are the minimum for a good README, but your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
 
 ## Badges
 
