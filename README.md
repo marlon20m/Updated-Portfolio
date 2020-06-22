@@ -46,7 +46,7 @@ License MIT - Github
 
 ## Tests
 
-[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)] </br >
+![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg) </br >
 Passed 
 
 ## Contact
