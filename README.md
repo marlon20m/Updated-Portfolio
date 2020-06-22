@@ -43,7 +43,7 @@ The last section of a good README is a license. This lets other developers know 
 ## Contributing
 
 [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/contributors/) </br >
-1 contributor Marlon Mora
+1 contributor </br >Marlon Mora
 
 
 ## Tests
@@ -53,8 +53,8 @@ Passed
 
 ## Contact
 
-Marlon Mora
-Github: https://github.com/marlon20m
+Marlon Mora </br >
+Github: https://github.com/marlon20m </br >
 Email: marlonmora.ndr@gmail.com </br >
 
 ![alt text](https://avatars0.githubusercontent.com/u/62806466?v=4)
