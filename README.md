@@ -41,7 +41,6 @@ License MIT - Github
 
 ## Contributing
 
-[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/contributors/) </br >
 1 contributor </br >Marlon Mora
 
 
